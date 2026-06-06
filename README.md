@@ -1,5 +1,6 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
- 
+## NAME : Paladugu Venkata Balaji
+## REG.NO : 2305001024
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
 
@@ -96,6 +97,7 @@ int main() {
 
 ```
 ## OUTPUT
+<img width="488" height="295" alt="image" src="https://github.com/user-attachments/assets/e2012e1e-ab88-453b-9d16-ae7cf2154da5" />
 
 ## RESULT
 hence the experiment has been executed successfully
