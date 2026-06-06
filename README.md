@@ -1,5 +1,5 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
-## NAME : Paladugu Venkata Balaji
+## NAME : PALADUGU VENKATA BALAJI
 ## REG.NO : 2305001024
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
